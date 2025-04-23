@@ -4,6 +4,7 @@
       <img src="https://images.ui8.net/uploads/preview_-_02_bw_1685683214935.png" alt="Project Banner">
     </a>
   <br />
+</div>
 
 ## <a name="table">Table of Contents</a>
 
